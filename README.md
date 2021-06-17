@@ -6,4 +6,4 @@ It was conceived by computer scientist Edsger W. Dijkstra in 1956 and published 
 Dijkstra's original algorithm found the shortest path between two given nodes, but a more common variant fixes a single node as the "source" node and finds shortest paths
 from the source to all other nodes in the graph, producing a shortest-path tree. For a given source node in the graph, the algorithm finds the shortest path between that node and every other.
 
-![Alt Text](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#/media/File:Dijkstra_Animation.gif)
+![Alt Text](https://giphy.com/gifs/producthunt-zach-galifianakis-algorithm-3o6Yg4GUVgIUg3bf7W)
